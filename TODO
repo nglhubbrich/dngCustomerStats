@@ -1,0 +1,14 @@
+TODO: 
+
+- add a try/except to getAndWritePaymentInfo(), listindex out of range error when it encounters an account with no name
+* completed mar 5. used if statement to handle accounts with no names.
+
+-add a try/except to getAndWritePaymentInfo(), listindex out of range error when it encounters a payment in the 1000's (recorded as 1,000.00)
+      need to add to the regex find 0 or more ($?) , in it
+* completed mar 5. used if/else statement
+
+- add in DOW(day of week) column and also split first and last name 
+
+- turn all regex into their own functions and then call each of them in the main getAndWritePaymentInfo() for cleaner completed
+
+- if a customer gets paid by cheque and the first time their order was rang through and it was entered wrong and then reversed, they could end up with double records. figure out a way to handle that. yeah, good luck.
