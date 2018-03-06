@@ -19,6 +19,16 @@ import csv
 import re
 import os
 import shutil
+import datetime as datetime
+
+#INITIALIZATION AND ASSIGNMENTS
+currentMonth = datetime.date.today().strftime('%B')
+monthlyCSV = currentMonth + 'Customer' + 'Data' + '.csv'
+
+with open(monthlyCSV, 'w+') as mcsv:
+    csvWriterMonthly = csv.writer(mcsv)
+    setHeader = csv.writer(mcsv)
+    setHeader.writerow(['Date', 'Account Number', 'Account Name', 'Payment Amount'])
 
 #try to get the report file name from the user
 while True:
@@ -114,30 +124,43 @@ def getAndWritePaymentInfo():
         
         #but only if it isn't a fee payment. SEE README.md for fee removal vs line removal
         if accountPayment > 1.25:
-            csvWriter(paymentInfo)
+            csvMasterWriter(paymentInfo)
+            csvMonthlyWriter(paymentInfo)
 
     #get OS and desktop path to save a copy of the csv that the user can do with what
     # they choose, leaving a master copy in the directory        
     if os.name == 'posix':
         posixDesktop = os.path.join(os.path.join(os.path.expanduser('~')), 'Desktop')
         shutil.copy('paymentStats.csv', posixDesktop)
+        shutil.copy(monthlyCSV, posixDesktop)
+        os.remove(monthlyCSV)
         print('The payment stats have been saved to your desktop!')
     else:
         winDesktop = os.path.join(os.path.join(os.environ['USERPROFILE']), 'Desktop')
-        shutil.copy('paymentStats.csv', winDesktop) 
+        shutil.copy('paymentStats.csv', winDesktop)                 
+        shutil.copy(monthlyCSV, winDesktop)
+        os.remove(monthlyCSV)
         print('The payment stats have been saved to your desktop!')
 
-def csvWriter(paymentInfo):
+def csvMasterWriter(paymentInfo):
     '''
-    Writes the Payment information to a csv. the list to use is generated in the getPaymentInfo function.
+    Writes the Payment information to the master csv file kept in the directory. the list to use is generated in the getPaymentInfo function.
 
     Arguments:
         arg1 - a List with the date, accountnumber, accountname, accountpayment
     '''
     with open('paymentStats.csv', 'a') as ps:
-        csvWriter = csv.writer(ps)
+        csvWriterMaster = csv.writer(ps)
 
-        csvWriter.writerow(paymentInfo)
+        csvWriterMaster.writerow(paymentInfo)
+
+def csvMonthlyWriter(paymentInfo):
+    currentMonth = datetime.date.today().strftime('%B')
+    monthlyCSV = currentMonth + 'Customer' + 'Data' + '.csv'
+
+    with open(monthlyCSV, 'a') as mcsv:
+        csvWriterMonthly = csv.writer(mcsv)
+        csvWriterMonthly.writerow(paymentInfo)
 
 getCustomerCount()
 getAndWritePaymentInfo()
