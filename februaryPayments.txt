@@ -1,0 +1,329 @@
+
+
+        PayPal Payments                                                 Sarcan Regina Vic East (96)         Page
+                                                                        2636 E Victoria Ave                 1 / 5
+                                                                        Regina,SK S4N6M5
+             Printed: Tuesday, March 06, 2018 12:17:28 PM
+                                                                        306-347-2807
+               From: Thursday, February 01, 2018                        360-347-2808
+                  to: Wednesday, February 28, 2018
+              Group: (None)
+
+
+         Date     Time Account #       Name                           Location         Description           Amount
+        2/2/2018  0138  999000956      Lisa MacMurchy Lisa MacMurchy  096601  201      Account payment      $117.65
+        2/2/2018  0138  999000956      Lisa MacMurchy Lisa MacMurchy  096601  201      Account payment        $1.25
+        2/2/2018  0138  999005941      Cheryl Grzeda Cheryl Grzeda    096601  201      Account payment       $22.94
+        2/2/2018  0138  999005941      Cheryl Grzeda Cheryl Grzeda    096601  201      Account payment        $0.46
+        2/2/2018  0922  999006186      Rainer Sahlmueller Rainer Sahlmuell 096601  201  Account payment       $6.08
+        2/2/2018  0922  999006186      Rainer Sahlmueller Rainer Sahlmuell 096601  201  Account payment       $0.12
+        2/2/2018  0922  999001782      Regina Food for Learning Linda Gen 096601  201  Account payment        $5.25
+        2/2/2018  0922  999001782      Regina Food for Learning Linda Gen 096601  201  Account payment        $0.10
+        2/2/2018  1217  096100500      Mason Foote Mason Foote        096001  201      Account payment        $2.20
+        2/2/2018  1219  096100244      paul harker paul harker        096001  201      Account payment      $126.35
+        2/2/2018  1219  999003711      Sask Stealth Sask Stealth      096001  201      Account payment       $16.95
+        2/2/2018  1341  096100244      paul harker paul harker        096001  201      Account payment       $94.85
+        2/3/2018  0758  999003100      Revival Music Room Revival Music   096001  201  Account payment       $72.45
+        2/5/2018  0418  096100223      kenneth loeppky kenneth loeppky  096601  201    Account payment       $15.10
+        2/5/2018  0418  096100223      kenneth loeppky kenneth loeppky  096601  201    Account payment        $0.30
+        2/5/2018  0418  000001726      Colan McCrum Colan McCrum      096601  201      Account payment       $55.05
+        2/5/2018  0418  000001726      Colan McCrum Colan McCrum      096601  201      Account payment        $1.10
+        2/5/2018  0418  096100246      dean schmidt dean schmidt      096601  201      Account payment       $32.84
+        2/5/2018  0418  096100246      dean schmidt dean schmidt      096601  201      Account payment        $0.66
+        2/5/2018  0418  096100247      dave zehr dave zehr            096601  201      Account payment       $14.75
+        2/5/2018  0418  096100247      dave zehr dave zehr            096601  201      Account payment        $0.30
+        2/5/2018  0418  999006233      Lucian Rosca Lucian Rosca      096601  201      Account payment       $22.35
+        2/5/2018  0418  999006233      Lucian Rosca Lucian Rosca      096601  201      Account payment        $0.45
+        2/5/2018  1732  999006322      Bonnie Balaski Bonnie Balaski  096001  201      Account payment       $19.40
+        2/5/2018  1733  999004943      Kevin Yeske Kevin Yeske        096001  201      Account payment      $105.30
+        2/5/2018  1733  096100245      brad potter brad potter        096001  201      Account payment       $23.90
+        2/5/2018  1734  096100244      paul harker paul harker        096001  201      Account payment       $49.50
+        2/6/2018  0502  096100248      doris rockthunder doris rockthunder  096601  201  Account payment     $19.46
+        2/6/2018  0502  096100248      doris rockthunder doris rockthunder  096601  201  Account payment      $0.39
+        2/6/2018  0502  999003607      Kate Simard Kate Simard        096601  201      Account payment       $63.70
+        2/6/2018  0502  999003607      Kate Simard Kate Simard        096601  201      Account payment        $1.25
+        2/6/2018  0502  999000711      Karen Oblinski Karen Oblinski  096601  201      Account payment       $32.55
+        2/6/2018  0502  999000711      Karen Oblinski Karen Oblinski  096601  201      Account payment        $0.65
+        2/7/2018  0440  999000956      Lisa MacMurchy Lisa MacMurchy  096601  201      Account payment       $31.42
+        2/7/2018  0440  999000956      Lisa MacMurchy Lisa MacMurchy  096601  201      Account payment        $0.63
+        2/7/2018  0440  999004829      Stephen McLellan Stephen McLellan 096601  201   Account payment       $77.55
+        2/7/2018  0440  999004829      Stephen McLellan Stephen McLellan 096601  201   Account payment        $1.25
+        2/7/2018  0440  999000246      Robert Eering Robert Eering    096601  201      Account payment       $32.99
+        2/7/2018  0440  999000246      Robert Eering Robert Eering    096601  201      Account payment        $0.66
+        2/7/2018  0440  096100232      World Youth Day World Youth Day Y 096601  201   Account payment       $46.57
+        2/7/2018  0440  096100232      World Youth Day World Youth Day Y 096601  201   Account payment        $0.93
+        2/7/2018  0440  999006054      Tiffany Frolick Tiffany Frolick  096601  201    Account payment       $31.18
+        2/7/2018  0440  999006054      Tiffany Frolick Tiffany Frolick  096601  201    Account payment        $0.62
+        2/9/2018  0411  999005459      justin walker justin walker    096601  201      Account payment       $20.93
+        2/9/2018  0411  999005459      justin walker justin walker    096601  201      Account payment        $0.42
+        2/9/2018  0411  999006442      Sharon McArthur Sharon McArthur  096601  201    Account payment       $35.88
+        2/9/2018  0411  999006442      Sharon McArthur Sharon McArthur  096601  201    Account payment        $0.72
+        2/9/2018  0411  096100021      Connie Fuessel Connie Fuessel  096601  201      Account payment      $100.00
+        2/9/2018  0411  096100021      Connie Fuessel Connie Fuessel  096601  201      Account payment        $1.25
+        2/9/2018  0411  999004829      Stephen McLellan Stephen McLellan 096601  201   Account payment       $57.45
+
+
+
+        PayPal Payments                                                 Sarcan Regina Vic East (96)         Page
+                                                                        2636 E Victoria Ave                 2 / 5
+                                                                        Regina,SK S4N6M5
+             Printed: Tuesday, March 06, 2018 12:17:29 PM
+                                                                        306-347-2807
+               From: Thursday, February 01, 2018                        360-347-2808
+                  to: Wednesday, February 28, 2018
+              Group: (None)
+
+
+         Date     Time Account #       Name                           Location         Description           Amount
+        2/9/2018  0411  999004829      Stephen McLellan Stephen McLellan 096601  201   Account payment        $1.15
+        2/9/2018  0411  999003607      Kate Simard Kate Simard        096601  201      Account payment       $37.65
+        2/9/2018  0411  999003607      Kate Simard Kate Simard        096601  201      Account payment        $0.75
+        2/9/2018  0411  999002597      Jody Culic Jody Culic          096601  201      Account payment       $20.69
+        2/9/2018  0411  999002597      Jody Culic Jody Culic          096601  201      Account payment        $0.41
+        2/9/2018  0411  999002984      The Pack Project The Pack Project T 096601  201  Account payment      $15.78
+        2/9/2018  0411  999002984      The Pack Project The Pack Project T 096601  201  Account payment       $0.32
+        2/9/2018  0411  999000956      Lisa MacMurchy Lisa MacMurchy  096601  201      Account payment      $138.15
+        2/9/2018  0411  999000956      Lisa MacMurchy Lisa MacMurchy  096601  201      Account payment        $1.25
+        2/9/2018  0411  999001260      Melanie Ennis Melanie Ennis    096601  201      Account payment       $38.82
+        2/9/2018  0411  999001260      Melanie Ennis Melanie Ennis    096601  201      Account payment        $0.78
+        2/9/2018  1301  999006385      Rosemont Community School Shari  096001  201    Account payment       $48.80
+        2/9/2018  1302  092100534      judy schwindt judy schwindt    096001  201      Account payment       $12.30
+        2/9/2018  1302  096100500      Mason Foote Mason Foote        096001  201      Account payment        $1.95
+        2/9/2018  1603  088100011      Archie stewart Archie stewart  096001  201      Account payment       $48.35
+        2/9/2018  1603  999003100      Revival Music Room Revival Music   096001  201  Account payment      $111.70
+        2/12/2018 0233  999001782      Regina Food for Learning Linda Gen 096601  201  Account payment        $4.41
+        2/12/2018 0233  999001782      Regina Food for Learning Linda Gen 096601  201  Account payment        $0.09
+        2/12/2018 0233  096100129      trevor middelkoop trevor middelkoop 096601  201  Account payment      $13.24
+        2/12/2018 0233  096100129      trevor middelkoop trevor middelkoop 096601  201  Account payment       $0.26
+        2/12/2018 0918  096100230      Arron Dobson Arron Dobson      096601  201      Account payment        $7.84
+        2/12/2018 0918  096100230      Arron Dobson Arron Dobson      096601  201      Account payment        $0.16
+        2/12/2018 0918  096100250      oliviah hastings oliviah hastings  096601  201  Account payment       $33.77
+        2/12/2018 0918  096100250      oliviah hastings oliviah hastings  096601  201  Account payment        $0.68
+        2/12/2018 0918  999001554      Logan Bobetsis Logan Bobetsis  096601  201      Account payment       $22.30
+        2/12/2018 0918  999001554      Logan Bobetsis Logan Bobetsis  096601  201      Account payment        $0.45
+        2/12/2018 0918  999006438      Alexis Langen Alexis Langen    096601  201      Account payment        $7.50
+        2/12/2018 0918  999006438      Alexis Langen Alexis Langen    096601  201      Account payment        $0.15
+        2/12/2018 0918  999006135      Scott Livingstone Scott Livingstone  096601  201  Account payment     $29.41
+        2/12/2018 0918  999006135      Scott Livingstone Scott Livingstone  096601  201  Account payment      $0.59
+        2/12/2018 0918  999005913      Patrick Beaudoin Patrick Beaudoin  096601  201  Account payment        $6.37
+        2/12/2018 0918  999005913      Patrick Beaudoin Patrick Beaudoin  096601  201  Account payment        $0.13
+        2/12/2018 0923  999006454      Daryl Hepting Daryl Hepting    096001  201      Account payment       $20.80
+        2/14/2018 0417  999004831      Kyle Worth Kyle Worth          096601  201      Account payment       $29.31
+        2/14/2018 0417  999004831      Kyle Worth Kyle Worth          096601  201      Account payment        $0.59
+        2/14/2018 1201  999002863      Chris Smigelsky Chris Smigelsky  096601  201    Account payment       $28.73
+        2/14/2018 1201  999002863      Chris Smigelsky Chris Smigelsky  096601  201    Account payment        $0.57
+        2/14/2018 1201  999002154      Nancy Langley Nancy Langley    096601  201      Account payment       $47.60
+        2/14/2018 1201  999002154      Nancy Langley Nancy Langley    096601  201      Account payment        $0.95
+        2/14/2018 1201  999001402      Lynda Bowman Lynda Bowman      096601  201      Account payment       $14.02
+        2/14/2018 1201  999001402      Lynda Bowman Lynda Bowman      096601  201      Account payment        $0.28
+        2/14/2018 1201  999005941      Cheryl Grzeda Cheryl Grzeda    096601  201      Account payment       $48.24
+        2/14/2018 1201  999005941      Cheryl Grzeda Cheryl Grzeda    096601  201      Account payment        $0.96
+        2/14/2018 1206  999004894      St Dominic School St Dominic Schoo 096001  201  Account payment       $11.00
+        2/16/2018 0910  096100251      paula ricci paula ricci        096001  201      Account payment       $27.50
+        2/16/2018 1128  096100252      jannelle clarke jannelle clarke  096601  201    Account payment       $32.30
+        2/16/2018 1128  096100252      jannelle clarke jannelle clarke  096601  201    Account payment        $0.65
+        2/16/2018 1128  096100012      Kim Peters Kim Peters          096601  201      Account payment        $6.76
+        2/16/2018 1128  096100012      Kim Peters Kim Peters          096601  201      Account payment        $0.14
+        2/16/2018 1128  999000821      Raymond Rodych Raymond Rodych 096601   201      Account payment       $10.64
+
+
+
+        PayPal Payments                                                 Sarcan Regina Vic East (96)         Page
+                                                                        2636 E Victoria Ave                 3 / 5
+                                                                        Regina,SK S4N6M5
+             Printed: Tuesday, March 06, 2018 12:17:29 PM
+                                                                        306-347-2807
+               From: Thursday, February 01, 2018                        360-347-2808
+                  to: Wednesday, February 28, 2018
+              Group: (None)
+
+
+         Date     Time Account #       Name                           Location         Description           Amount
+        2/16/2018 1128  999000821      Raymond Rodych Raymond Rodych 096601   201      Account payment        $0.21
+        2/16/2018 1128  999005750      Happy Hour Spirits Happy Hour Spiri 096601  201  Account payment      $30.20
+        2/16/2018 1128  999005750      Happy Hour Spirits Happy Hour Spiri 096601  201  Account payment       $0.60
+        2/16/2018 1133  999006167      Anas Salem Anas Salem          096001  201      Account payment        $1.95
+        2/21/2018 0952  999006585      Norm Cloutier Norm Cloutier    096601  201      Account payment       $62.90
+        2/21/2018 0952  999006585      Norm Cloutier Norm Cloutier    096601  201      Account payment        $1.25
+        2/21/2018 0952  999006472      Sarah Huber Sarah Huber        096601  201      Account payment       $10.93
+        2/21/2018 0952  999006472      Sarah Huber Sarah Huber        096601  201      Account payment        $0.22
+        2/21/2018 0952  999005325      Sandi Olfert Sandi Olfert      096601  201      Account payment       $12.55
+        2/21/2018 0952  999005325      Sandi Olfert Sandi Olfert      096601  201      Account payment        $0.25
+        2/21/2018 0952  999006041      Jen Gibson Jen Gibson          096601  201      Account payment       $81.30
+        2/21/2018 0952  999006041      Jen Gibson Jen Gibson          096601  201      Account payment        $1.25
+        2/21/2018 0952  999006106      SE Titians Volleyball Autumn Barta  096601  201  Account payment      $60.29
+        2/21/2018 0952  999006106      SE Titians Volleyball Autumn Barta  096601  201  Account payment       $1.21
+        2/21/2018 0952  999005459      justin walker justin walker    096601  201      Account payment       $22.40
+        2/21/2018 0952  999005459      justin walker justin walker    096601  201      Account payment        $0.45
+        2/21/2018 0952  999004988      Andy Crooks Andy Crooks        096601  201      Account payment       $25.00
+        2/21/2018 0952  999004988      Andy Crooks Andy Crooks        096601  201      Account payment        $0.50
+        2/21/2018 0952  999000318      Anne Wells Anne Wells          096601  201      Account payment       $25.83
+        2/21/2018 0952  999000318      Anne Wells Anne Wells          096601  201      Account payment        $0.52
+        2/21/2018 0952  999000886      Teresa Sahulka Teresa Sahulka  096601  201      Account payment       $20.00
+        2/21/2018 0952  999000886      Teresa Sahulka Teresa Sahulka  096601  201      Account payment        $0.40
+        2/21/2018 0952  999000956      Lisa MacMurchy Lisa MacMurchy  096601  201      Account payment       $97.55
+        2/21/2018 0952  999000956      Lisa MacMurchy Lisa MacMurchy  096601  201      Account payment        $1.25
+        2/21/2018 0952  999001592      Brian Dean Brian Dean          096601  201      Account payment       $91.05
+        2/21/2018 0952  999001592      Brian Dean Brian Dean          096601  201      Account payment        $1.25
+        2/21/2018 0952  999001352      colin brass colin brass        096601  201      Account payment       $21.52
+        2/21/2018 0952  999001352      colin brass colin brass        096601  201      Account payment        $0.43
+        2/21/2018 0952  999002421      Chris Rottiers Chris Rottiers  096601  201      Account payment       $11.96
+        2/21/2018 0952  999002421      Chris Rottiers Chris Rottiers  096601  201      Account payment        $0.24
+        2/21/2018 0952  999001844      Kristin Marchant Kristin Marchant  096601  201  Account payment       $11.08
+        2/21/2018 0952  999001844      Kristin Marchant Kristin Marchant  096601  201  Account payment        $0.22
+        2/21/2018 0952  000001842      Jeff Reed Jeff Reed            096601  201      Account payment      $104.10
+        2/21/2018 0952  000001842      Jeff Reed Jeff Reed            096601  201      Account payment        $1.25
+        2/21/2018 0952  000002108      Penny Anderson Penny Anderson  096601  201      Account payment        $7.45
+        2/21/2018 0952  000002108      Penny Anderson Penny Anderson  096601  201      Account payment        $0.15
+        2/21/2018 0952  096100198      Jeff Livingstone Jeff Livingstone  096601  201  Account payment       $39.71
+        2/21/2018 0952  096100198      Jeff Livingstone Jeff Livingstone  096601  201  Account payment        $0.79
+        2/21/2018 0952  096100256      craig zorn craig zorn          096601  201      Account payment       $59.31
+        2/21/2018 0952  096100256      craig zorn craig zorn          096601  201      Account payment        $1.19
+        2/21/2018 0952  096100257      sergii ostrichenko sergii ostrichenko  096601  201  Account payment   $44.61
+        2/21/2018 0952  096100257      sergii ostrichenko sergii ostrichenko  096601  201  Account payment    $0.89
+        2/21/2018 0952  999000226      Laurie Leibel Laurie Leibel    096601  201      Account payment       $30.29
+        2/21/2018 0952  999000226      Laurie Leibel Laurie Leibel    096601  201      Account payment        $0.61
+        2/21/2018 1111  040100006      jeff brass jeff brass          096001  201      Account payment       $27.30
+        2/21/2018 1111  096100255      Jen Reid Jen Reid              096001  201      Account payment       $16.55
+        2/21/2018 1112  999003100      Revival Music Room Revival Music   096001  201  Account payment      $107.00
+        2/21/2018 1112  096100181      wshawrylak school wshawrylak scho 096001  201   Account payment       $15.50
+        2/21/2018 1112  096100254      Shaylyn Stoyko Shaylyn Stoyko  096001  201      Account payment       $55.10
+        2/21/2018 1114  999005020      Vern Forbes Vern Forbes        096001  201      Account payment       $33.00
+
+
+
+        PayPal Payments                                                 Sarcan Regina Vic East (96)         Page
+                                                                        2636 E Victoria Ave                 4 / 5
+                                                                        Regina,SK S4N6M5
+             Printed: Tuesday, March 06, 2018 12:17:29 PM
+                                                                        306-347-2807
+               From: Thursday, February 01, 2018                        360-347-2808
+                  to: Wednesday, February 28, 2018
+              Group: (None)
+
+
+         Date     Time Account #       Name                           Location         Description           Amount
+        2/21/2018 1115  118100103      micheal kraemer micheal kraemer  096001  201    Account payment       $36.25
+        2/21/2018 1115  000001823      Angela George Angela George    096001  201      Account payment       $57.45
+        2/21/2018 1116  096100259      Justin Schmidt Justin Schmidt  096001  201      Account payment        $8.25
+        2/21/2018 1116  999001845      Roy Tivas Roy Tivas            096001  201      Account payment       $27.75
+        2/21/2018 1426  999003341      Social IGA Social IGA          096001  201      Account payment       $69.65
+        2/21/2018 1427  999003110      Billy Watson Billy Watson      096001  201      Account payment       $17.70
+        2/21/2018 1427  096100260      clint mclean clint mclean      096001  201      Account payment       $41.30
+        2/21/2018 1615  096100260      clint mclean clint mclean      096001  201      Account payment       $44.35
+        2/21/2018 1615  096100203      Wascana Volleyball Club Wascana   096001  201   Account payment        $8.30
+        2/23/2018 1619  999004943      Kevin Yeske Kevin Yeske        096001  201      Account payment       $77.55
+        2/23/2018 1619  999006454      Daryl Hepting Daryl Hepting    096001  201      Account payment       $31.15
+        2/24/2018 0312  999006186      Rainer Sahlmueller Rainer Sahlmuell 096601  201  Account payment      $12.35
+        2/24/2018 0312  999006186      Rainer Sahlmueller Rainer Sahlmuell 096601  201  Account payment       $0.25
+        2/24/2018 0312  999004827      Mark Hay Mark Hay              096601  201      Account payment       $15.54
+        2/24/2018 0312  999004827      Mark Hay Mark Hay              096601  201      Account payment        $0.31
+        2/24/2018 0312  999005459      justin walker justin walker    096601  201      Account payment       $22.45
+        2/24/2018 0312  999005459      justin walker justin walker    096601  201      Account payment        $0.45
+        2/24/2018 0312  999005701      Janice Gayton-Randall Janice Gayto 096601  201  Account payment        $3.04
+        2/24/2018 0312  999005701      Janice Gayton-Randall Janice Gayto 096601  201  Account payment        $0.06
+        2/24/2018 0312  999005941      Cheryl Grzeda Cheryl Grzeda    096601  201      Account payment       $40.20
+        2/24/2018 0312  999005941      Cheryl Grzeda Cheryl Grzeda    096601  201      Account payment        $0.80
+        2/24/2018 0312  096100179      shauna mitru shauna mitru      096601  201      Account payment       $50.49
+        2/24/2018 0312  096100179      shauna mitru shauna mitru      096601  201      Account payment        $1.01
+        2/24/2018 0312  092100521      mike mccann mike mccann        096601  201      Account payment       $11.27
+        2/24/2018 0312  092100521      mike mccann mike mccann        096601  201      Account payment        $0.23
+        2/24/2018 0312  096100261      lisa jardine lisa jardine      096601  201      Account payment       $66.75
+        2/24/2018 0312  096100261      lisa jardine lisa jardine      096601  201      Account payment        $1.25
+        2/24/2018 0312  999000269      Colin Beaton Colin Beaton      096601  201      Account payment       $68.60
+        2/24/2018 0312  999000269      Colin Beaton Colin Beaton      096601  201      Account payment        $1.25
+        2/24/2018 0312  999002911      Bill Huber Bill Huber          096601  201      Account payment       $26.76
+        2/24/2018 0312  999002911      Bill Huber Bill Huber          096601  201      Account payment        $0.54
+        2/24/2018 1544  096100263      craig schmidt craig schmidt    096001  201      Account payment       $61.25
+        2/24/2018 1545  096100262      Darrell Mohr Darrell Mohr      096001  201      Account payment       $86.95
+        2/24/2018 1545  999001809      Brad Gore Brad Gore            096001  201      Account payment       $64.00
+        2/24/2018 1546  999006782      Marcel Champagne Marcel Champa 096001  201      Account payment       $30.70
+        2/27/2018 0325  999006232      Glen Geiger Glen Geiger        096601  201      Account payment       $34.02
+        2/27/2018 0325  999006232      Glen Geiger Glen Geiger        096601  201      Account payment        $0.68
+        2/27/2018 0325  999006472      Sarah Huber Sarah Huber        096601  201      Account payment       $14.61
+        2/27/2018 0325  999006472      Sarah Huber Sarah Huber        096601  201      Account payment        $0.29
+        2/27/2018 0325  999005747      Jacki Litke Jacki Litke        096601  201      Account payment       $65.25
+        2/27/2018 0325  999005747      Jacki Litke Jacki Litke        096601  201      Account payment        $1.25
+        2/27/2018 0325  999005269      carey markewich carey markewich  096601  201    Account payment        $8.14
+        2/27/2018 0325  999005269      carey markewich carey markewich  096601  201    Account payment        $0.16
+        2/27/2018 0325  999000823      Doug Wagner Doug Wagner        096601  201      Account payment       $15.25
+        2/27/2018 0325  999000823      Doug Wagner Doug Wagner        096601  201      Account payment        $0.30
+        2/27/2018 0325  999003381      Carson Alary Carson Alary      096601  201      Account payment        $8.24
+        2/27/2018 0325  999003381      Carson Alary Carson Alary      096601  201      Account payment        $0.16
+        2/27/2018 0325  999000114      Leslie Pasnak Leslie Pasnak    096601  201      Account payment       $40.15
+        2/27/2018 0325  999000114      Leslie Pasnak Leslie Pasnak    096601  201      Account payment        $0.80
+        2/27/2018 0325  096100118      shauna macisaac shauna macisaac  096601  201    Account payment       $21.81
+
+
+
+        PayPal Payments                                                 Sarcan Regina Vic East (96)         Page
+                                                                        2636 E Victoria Ave                 5 / 5
+                                                                        Regina,SK S4N6M5
+             Printed: Tuesday, March 06, 2018 12:17:29 PM
+                                                                        306-347-2807
+               From: Thursday, February 01, 2018                        360-347-2808
+                  to: Wednesday, February 28, 2018
+              Group: (None)
+
+
+         Date     Time Account #       Name                           Location         Description           Amount
+        2/27/2018 0325  096100118      shauna macisaac shauna macisaac  096601  201    Account payment        $0.44
+        2/27/2018 0325  090100069      Garfield Martin Garfield Martin  096601  201    Account payment        $4.41
+        2/27/2018 0325  090100069      Garfield Martin Garfield Martin  096601  201    Account payment        $0.09
+        2/27/2018 1543  096100061      Greg Lipoth Greg Lipoth        096001  201      Account payment       $37.55
+        2/27/2018 1544  040100006      jeff brass jeff brass          096001  201      Account payment       $12.45
+        2/27/2018 1546  096100203      Wascana Volleyball Club Wascana   096001  201   Account payment       $17.15
+        2/27/2018 1547  999002860      Adam Coons Adam Coons          096001  201      Account payment       $11.10
+        2/27/2018 1548  999002463      Sandy Holfeld Sandy Holfeld    096001  201      Account payment       $87.85
+        2/27/2018 1548  999006869      David Gower David Gower        096001  201      Account payment       $32.30
+        2/27/2018 1549  999003468      Christopher Tucker Christopher Tuck 096001  201  Account payment      $47.40
+        2/27/2018 1549  096100265      daryl griffiths daryl griffiths  096001  201    Account payment       $63.80
+        2/27/2018 1550  999006851      Harlan Kennedy Harlan Kennedy  096001  201      Account payment       $28.40
+        2/27/2018 1550  999005907      Nora Mason Nora Mason          096001  201      Account payment       $39.10
+        2/27/2018 1551  096100178      David parker David parker      096001  201      Account payment       $10.55
+        2/27/2018 1551  999002518      Michelle Fiske Michelle Fiske  096001  201      Account payment        $4.25
+        2/28/2018 0906  096100500      Mason Foote Mason Foote        096001  201      Account payment        $4.00
+        2/28/2018 0906  096100500      Mason Foote Mason Foote        096001  201      Account payment       ($4.00)
+        2/28/2018 0907  096100500      Mason Foote Mason Foote        096001  201      Account payment        $2.00
+        2/28/2018 1224  999000269      Colin Beaton Colin Beaton      096601  201      Account payment       $13.48
+        2/28/2018 1224  999000269      Colin Beaton Colin Beaton      096601  201      Account payment        $0.27
+        2/28/2018 1224  999000956      Lisa MacMurchy Lisa MacMurchy  096601  201      Account payment       $53.14
+        2/28/2018 1224  999000956      Lisa MacMurchy Lisa MacMurchy  096601  201      Account payment        $1.06
+        2/28/2018 1224  999001782      Regina Food for Learning Linda Gen 096601  201  Account payment       $12.21
+        2/28/2018 1224  999001782      Regina Food for Learning Linda Gen 096601  201  Account payment        $0.24
+        2/28/2018 1224  999006894      Kyron Eberle Kyron Eberle      096601  201      Account payment       $52.60
+        2/28/2018 1224  999006894      Kyron Eberle Kyron Eberle      096601  201      Account payment        $1.05
+        2/28/2018 1509  999001960      Shannon Bandura Shannon Bandura 096001  201     Account payment       $37.25
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                          Records 227                                                                      $5,162.35
+
