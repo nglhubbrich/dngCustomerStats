@@ -21,7 +21,7 @@
 The sole purpose of this program is make it easier to get a monthly customer count(more details on this in a moment) as well as saving that months data in a useful format for analysis, and therefore, it is inteded to only be used monthly. As noted in the features section, it is not reccomended to run on partial dates, as this will add, and potentially duplicate, parts of the data. 
 
 Hopefully in the near future, there will be a feature added that lets you choose if you want to only obtain a customer count, or only write out a data .csv, or a combination of both. check back here to see if that has been added:
-  - [ ]Just like Burger King, you can have it your way! 'Choose what you want to do' has been added! 
+  - []Just like Burger King, you can have it your way! 'Choose what you want to do' has been added! 
 
 ##### Getting the report to use
 In order to use this friendly little helper, you need a text file version of the payment report from L-Boss. This is easy to get: Go to the report section in L-Boss and choose PayPal Payments (the title of this report is misleading, it actually has all payments made to account holders, independant of method.) Once the report loads, in the file menu, choose 'Save report as text file'. Give it a proper name (like: februaryPayments.txt), and save it in an easy to remember place (you need this path name to enter in when you run the program, so choose a place thats simple, like C:/Users/LBoss/februaryPayments.txt as opposed to C:/Users/LBoss/Desktop/PaymentFiles/February Payment Reports/februaryPayments.txt)
@@ -42,8 +42,8 @@ Currently, this is a Command-Line Interface program. In your Human language, tha
     - Yay! You are finished! It will return a prompt saying the total amount of customers for that month, and let you know that your files have been saved! Go grab a coffee and hang out for the rest of the day...or work. Probably work, but I'm not telling you what to do. You do you.
 
 Hopefully sometime in the future I will make it all GUI (not Command-Line Interface) and maybe compile a version for windows so you don't have to run it in a command prompt. Check back here to see if it has been added:
-  - [ ]Oooooo! It's so GUI! 
-  - [ ]Unlike your future prison cell, this suckers got windows!
+  - []Oooooo! It's so GUI! 
+  - []Unlike your future prison cell, this suckers got windows!
 
 ##### Helpful Hints
   - Save the report in the same directory as the program to alleviate having to type the entire path. You can then just simply type the name of the report without all the file path mumbo-jumbo.
